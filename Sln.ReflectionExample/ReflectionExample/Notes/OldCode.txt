@@ -1,0 +1,6 @@
+﻿
+
+DirectoryInfo _DirectoryInfo = new DirectoryInfo(Path.GetDirectoryName(Path.GetDirectoryName(Directory.GetCurrentDirectory())));
+            var dllPath1 = Path.GetDirectoryName(Path.GetDirectoryName(Directory.GetCurrentDirectory()));
+
+
